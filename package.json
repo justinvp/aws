@@ -1,0 +1,7 @@
+{
+    "name": "aws",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/cloud-aws": "latest"
+    }
+}

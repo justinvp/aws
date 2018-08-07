@@ -1,0 +1,9 @@
+name: aws
+description: A simple AWS serverless JavaScript program
+runtime: nodejs
+template:
+  description: A simple AWS serverless JavaScript program
+  config:
+    aws:region:
+      description: The AWS region to deploy into
+      default: us-east-1
